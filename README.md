@@ -1,6 +1,6 @@
 # Strategic Pricing Analysis
 
-![Growth chart illustration](images/5001826.jpg)
+![Growth chart illustration](images/Main_image.png)
 
 
 An interactive pricing analysis to help businesses maintain market competitiveness while protecting profit margins, identifying categories that need adjustments, and enabling strategic, data-driven pricing decisions.
@@ -69,10 +69,10 @@ This repository is organized as follows:
 
 Here are some snapshots of the dashboard:  
 
-![Dashboard Image 1](images/image1.png)
-![Dashboard Image 2](images/image2.png)
-![Dashboard Image 3](images/image3.png)
-![Dashboard Image 4](images/image4.png)	
+![Dashboard Image 1](images/Dashboard_Image_1.png)
+![Dashboard Image 2](images/Dashboard_Image_2.png)
+![Dashboard Image 3](images/Dashboard_Image_3.png)
+![Dashboard Image 4](images/Dashboard_Image_4.png)	
 ---
 
 
