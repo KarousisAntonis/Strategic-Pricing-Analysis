@@ -15,6 +15,15 @@ An interactive pricing analysis to help businesses maintain market competitivene
 
 ---
 
+## 🎥 Project Presentation
+
+This project was presented in a structured analytical format, covering data preparation, statistical evaluation, and pricing insights.
+
+Watch the full presentation here:
+👉 https://www.youtube.com/watch?v=x3t0o9I5Kos
+
+---
+
 ## Project Description
 
 This project investigates pricing strategies to help businesses maintain market competitiveness while protecting profit margins. Using sales and competitor pricing data, we perform data cleaning, exploratory data analysis (EDA), and build an interactive Power BI dashboard to visualize insights on optimal pricing adjustments and categories requiring real-time monitoring. The dashboard enables data-driven decision-making to maximize market share and safeguard future sales, ensuring both competitiveness and profitability.
